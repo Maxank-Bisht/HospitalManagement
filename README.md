@@ -1,2 +1,3 @@
 # HospitalManagement
-c++
+
+# This project is made in c++ !!
